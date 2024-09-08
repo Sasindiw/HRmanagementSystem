@@ -8,9 +8,10 @@ The HR Management System is a comprehensive platform designed to streamline and 
 - **Secure Login**: Ensure data security with a robust login system.
 - **User-Friendly Interface**: Navigate easily with an intuitive and well-designed interface.
 
-### Screenshots:
-![HR Management System](https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG1.png?raw=true)
-![HR Management System 2](https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG2.png?raw=true)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG1.png?raw=true" alt="HR Management System" width="400"/>
+  <img src="https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG2.png?raw=true)" alt="HR Management System 2" width="400"/>
+</div>
 
 ### Technologies Used:
 - **Java**: The core programming language for application development.
