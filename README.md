@@ -10,6 +10,6 @@ This is a simple and efficient platform designed to manage employee information,
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG1.png?raw=true" alt="HR Management System" width="400"/>
-  <img src="https://github.com/Sasindiw/HRmanagementSystem/blob/main/YOUR_SECOND_IMAGE.png?raw=true" alt="HR Management System 2" width="400"/>
+  <img src="https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG2.png?raw=true)" alt="HR Management System 2" width="400"/>
 </div>
 
