@@ -15,4 +15,4 @@ This is a simple and efficient platform designed to manage employee information,
 
 ### Technologies :
 - Java
-- IntelliJ
+- NetBeans
