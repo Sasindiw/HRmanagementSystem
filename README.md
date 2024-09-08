@@ -1,8 +1,12 @@
-# HRmanagementSystem
-This HR Management System is a simple and efficient platform designed to manage employee information, track their records, and streamline HR-related processes. It allows HR personnel to add, update, remove employee details and assign roles, 
+# HR Management System
 
-*Features:*
+![HR Management System]()
+
+This is a simple and efficient platform designed to manage employee information, track records, and streamline HR-related processes. 
+
+### Features:
 - Employee management: Add, edit, and remove employee details.
 - Role and department management: Assign roles and departments to employees.
+- Secure login and data handling.
 - User-friendly interface for easy navigation.
-- Secure data handling and storage.
+
