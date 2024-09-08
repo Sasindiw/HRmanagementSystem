@@ -1,7 +1,5 @@
 # HR Management System
 
-![HR Management System]()
-
 This is a simple and efficient platform designed to manage employee information, track records, and streamline HR-related processes. 
 
 ### Features:
@@ -10,3 +8,4 @@ This is a simple and efficient platform designed to manage employee information,
 - Secure login and data handling.
 - User-friendly interface for easy navigation.
 
+![HR Management System](https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG1.png?raw=true)
