@@ -17,3 +17,7 @@ This is a simple and efficient platform designed to manage employee information,
 - Java
 - NetBeans
 - JavaFX Scene Builder
+
+## Contact
+
+For any inquiries, please contact [sasindiw@gmail.com](mailto:sasindiw@gmail.com).
