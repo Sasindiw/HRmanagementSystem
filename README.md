@@ -13,3 +13,6 @@ This is a simple and efficient platform designed to manage employee information,
   <img src="https://github.com/Sasindiw/HRmanagementSystem/blob/main/HR_IMG2.png?raw=true)" alt="HR Management System 2" width="400"/>
 </div>
 
+### Technologies :
+- Java
+- IntelliJ
